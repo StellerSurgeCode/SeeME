@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Dark Business Theme -->
+    <color name="primary">#1A1A2E</color>
+    <color name="primary_dark">#0F0F1A</color>
+    <color name="primary_light">#2D2D44</color>
+    <color name="accent">#4A90D9</color>
+    <color name="accent_light">#6BA3E0</color>
+
+    <!-- Background -->
+    <color name="background">#121220</color>
+    <color name="surface">#1E1E32</color>
+    <color name="surface_elevated">#262640</color>
+    <color name="card_background">#1E1E32</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E8E8F0</color>
+    <color name="text_secondary">#9898B0</color>
+    <color name="text_hint">#686880</color>
+
+    <!-- Category Colors -->
+    <color name="category_work">#4A90D9</color>
+    <color name="category_life">#50C878</color>
+    <color name="category_entertainment">#E8A838</color>
+    <color name="category_ads">#D94A4A</color>
+    <color name="category_general">#7B68AE</color>
+
+    <!-- Importance -->
+    <color name="importance_critical">#E53935</color>
+    <color name="importance_high">#FB8C00</color>
+    <color name="importance_medium">#FDD835</color>
+    <color name="importance_low">#78909C</color>
+
+    <!-- Divider -->
+    <color name="divider">#2A2A40</color>
+
+    <!-- Status bar -->
+    <color name="status_bar">#0A0A18</color>
+
+    <!-- Theme accent variants -->
+    <color name="theme_blue">#4A90D9</color>
+    <color name="theme_green">#50C878</color>
+    <color name="theme_purple">#7B68AE</color>
+    <color name="theme_orange">#E8A838</color>
+    <color name="theme_red">#E53935</color>
+
+    <!-- Launcher icon background -->
+    <color name="ic_launcher_background_color">#FFFFFF</color>
+</resources>

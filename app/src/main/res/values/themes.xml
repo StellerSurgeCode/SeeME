@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Blue Theme -->
+    <style name="Theme.SeeME" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <!-- Green Theme - Fresh Forest -->
+    <style name="Theme.SeeME.Green" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#50C878</item>
+        <item name="colorPrimaryDark">#0A1A10</item>
+        <item name="colorAccent">#50C878</item>
+        <item name="colorSecondary">#7EDBA0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:colorBackground">#0C1A12</item>
+        <item name="android:windowBackground">#0C1A12</item>
+        <item name="android:statusBarColor">#061008</item>
+        <item name="android:navigationBarColor">#0A1A10</item>
+        <item name="android:textColorPrimary">#E0F5E8</item>
+        <item name="android:textColorSecondary">#90C0A0</item>
+        <item name="colorSurface">#142820</item>
+        <item name="colorSurfaceVariant">#1C3428</item>
+    </style>
+
+    <!-- Purple Theme - Elegant Night -->
+    <style name="Theme.SeeME.Purple" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#7B68AE</item>
+        <item name="colorPrimaryDark">#12101E</item>
+        <item name="colorAccent">#9B88CE</item>
+        <item name="colorSecondary">#A090D0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:colorBackground">#100E1C</item>
+        <item name="android:windowBackground">#100E1C</item>
+        <item name="android:statusBarColor">#08060E</item>
+        <item name="android:navigationBarColor">#12101E</item>
+        <item name="android:textColorPrimary">#E8E0F8</item>
+        <item name="android:textColorSecondary">#9890B8</item>
+        <item name="colorSurface">#1C1830</item>
+        <item name="colorSurfaceVariant">#24203C</item>
+    </style>
+
+    <!-- Orange Theme - Warm Sunset -->
+    <style name="Theme.SeeME.Orange" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#E8A838</item>
+        <item name="colorPrimaryDark">#1A1408</item>
+        <item name="colorAccent">#F0B848</item>
+        <item name="colorSecondary">#F5C860</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:colorBackground">#181208</item>
+        <item name="android:windowBackground">#181208</item>
+        <item name="android:statusBarColor">#0E0A04</item>
+        <item name="android:navigationBarColor">#1A1408</item>
+        <item name="android:textColorPrimary">#F8F0E0</item>
+        <item name="android:textColorSecondary">#B8A880</item>
+        <item name="colorSurface">#241E10</item>
+        <item name="colorSurfaceVariant">#302818</item>
+    </style>
+
+    <!-- Red Theme - Passionate Fire -->
+    <style name="Theme.SeeME.Red" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#E53935</item>
+        <item name="colorPrimaryDark">#1A0A0A</item>
+        <item name="colorAccent">#F04A48</item>
+        <item name="colorSecondary">#FF6B68</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:colorBackground">#160A0A</item>
+        <item name="android:windowBackground">#160A0A</item>
+        <item name="android:statusBarColor">#0E0404</item>
+        <item name="android:navigationBarColor">#1A0A0A</item>
+        <item name="android:textColorPrimary">#F8E0E0</item>
+        <item name="android:textColorSecondary">#B89090</item>
+        <item name="colorSurface">#221414</item>
+        <item name="colorSurfaceVariant">#2E1C1C</item>
+    </style>
+</resources>

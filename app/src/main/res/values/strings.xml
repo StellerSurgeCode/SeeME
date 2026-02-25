@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SeeME</string>
+    <string name="tab_overview">综合</string>
+    <string name="tab_categories">分类</string>
+    <string name="settings">设置</string>
+    <string name="category_work">工作</string>
+    <string name="category_life">生活</string>
+    <string name="category_entertainment">娱乐</string>
+    <string name="category_ads">广告推销</string>
+    <string name="category_general">综合</string>
+    <string name="no_messages">暂无消息</string>
+    <string name="no_messages_hint">开启通知监听权限后，消息将在这里显示</string>
+    <string name="enable_notification_access">开启通知监听权限</string>
+    <string name="notification_access_desc">SeeME 需要通知监听权限来读取和管理您的通知</string>
+    <string name="settings_api_key">API Key</string>
+    <string name="settings_poll_interval">轮询间隔（分钟）</string>
+    <string name="settings_custom_prompt">自定义提示词</string>
+    <string name="settings_custom_prompt_hint">例如：收到微信中"张三"的消息时，重要程度+2</string>
+    <string name="settings_theme">主题设置</string>
+    <string name="settings_dark_mode">深色模式</string>
+    <string name="settings_notification">通知汇总</string>
+    <string name="settings_notification_enabled">启用定时汇总通知</string>
+    <string name="settings_summary_count">汇总消息数量</string>
+    <string name="settings_whitelist">通知白名单</string>
+    <string name="settings_whitelist_desc">白名单中的应用通知不会被拦截（如音乐播放器控制）</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="delete">删除</string>
+    <string name="mark_read">标记已读</string>
+    <string name="unread_count">%d 条未读</string>
+    <string name="importance_label">重要性: %d/10</string>
+    <string name="message_from">来自 %s</string>
+</resources>
